@@ -2,6 +2,7 @@ TODO: File Structure and functional CSS
 
 TODO: Proxy with an API
 ++++++++++++++++++++++++++++++++++++++++++++
+5. Add first component
 
 ++++++++++++++++++++++++++++++++++++++++++++
 4. Functional CSS:
