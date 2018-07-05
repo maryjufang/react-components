@@ -2,6 +2,8 @@
 
 *:crystal_ball: TODO: Proxy with an API*
 
+#### 6 :relaxed: use absolute path for imports
+
 #### 5 :four_leaf_clover: Add first component, add layout with nested components
 
 #### 4 :unlock: Functional CSS:
