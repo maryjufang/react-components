@@ -1,4 +1,5 @@
 *:crystal_ball: TODO: File Structure and functional CSS*
+
 *:crystal_ball: TODO: Proxy with an API*
 
 5. :four_leaf_clover: Add first component, add layout with nested components
@@ -9,12 +10,16 @@
   - [tachyons](http://tachyons.io/#style)
     - names are too short
   4.1 $ npm i tailwindcss
+ 
   4.2 ./node_modules/.bin/tailwind init src/styles/styles.js
+ 
   4.3 Generated Tailwind config: /Users/machen/Documents/mercurial/git/react-components/src/styles/styles.js
+ 
   4.4 create src/styles/styles.css with:
     - \@tailwind preflight;
     - \@tailwind components;
     - \@tailwind utilities;
+
   4.5 Generate CSS file: $ ./node_modules/.bin/tailwind build src/styles/styles.css  -c src/styles/styles.js  -o src/styles/tailwind.css
 
 3. :high_brightness: install atom plugin language-babel to highlight the syntax
