@@ -2,9 +2,9 @@
 
 *:crystal_ball: TODO: Proxy with an API*
 
-5. :four_leaf_clover: Add first component, add layout with nested components
+#### 5 :four_leaf_clover: Add first component, add layout with nested components
 
-4. :unlock: Functional CSS:
+#### 4 :unlock: Functional CSS:
   - [tailwind css](https://tailwindcss.com/docs/installation/)
     - [Configuration](https://tailwindcss.com/docs/configuration)
   - [tachyons](http://tachyons.io/#style)
@@ -18,12 +18,12 @@
     - \@tailwind utilities;
   - Generate CSS file: $ ./node_modules/.bin/tailwind build src/styles/styles.css  -c src/styles/styles.js  -o src/styles/tailwind.css
 
-3. :high_brightness: install atom plugin language-babel to highlight the syntax
+#### 3 :high_brightness: install atom plugin language-babel to highlight the syntax
 
-2. :rose: run react APP
+#### 2 :rose: run react APP
   - $ npm start    ## run app
 
-1. :sunny: [Create a repo on github](https://www.codecademy.com/articles/how-to-create-a-react-app)
+#### 1 :sunny: [Create a repo on github](https://www.codecademy.com/articles/how-to-create-a-react-app)
   - $ npm install -g create-react-app
     - install the create-react-app command line interface (CLI) globally (-g)
   - $ create-react-app react-components
